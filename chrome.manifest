@@ -1,0 +1,2 @@
+content  	addonmanagerfix						content/
+override	chrome://mozapps/content/extensions/extensions.js   	chrome://addonmanagerfix/content/extensions.js
