@@ -1,5 +1,5 @@
 # addon_manager_fix_micro
-better addon manager firefox quantum beta, nightly , unbranded
+better addon manager firefox quantum beta, nightly , unbranded (tested/developed only on ff65)
 
 ![GitHub Logo](screenshot.png)
 
